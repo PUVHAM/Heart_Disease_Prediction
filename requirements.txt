@@ -1,0 +1,9 @@
+gdown
+numpy
+pandas
+tqdm
+scikit-learn
+streamlit
+seaborn
+matplotlib
+xgboost
